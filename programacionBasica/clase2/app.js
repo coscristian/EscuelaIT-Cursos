@@ -7,7 +7,6 @@ function solve3() {
     alert(`${nombre} ${apellido1} ${apellido2}`);
 }
 
-
 function solve2() {
     var input = prompt('Ingrese una cadena');
     var longitud = input.length;
